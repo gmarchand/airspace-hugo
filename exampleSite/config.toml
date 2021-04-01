@@ -13,7 +13,7 @@ disableLanguages = ["en","de"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-LMEQYGP1WP"
 
 
 ################################# Output formats ##############################
@@ -67,15 +67,15 @@ use_netlify = false
 # Form action
 ## For Formspree.io: Your Form ID URL, e.g. `https://formspree.io/f/{form_id}`
 ## For Netlify Forms: Path to a custom [success page](https://docs.netlify.com/forms/setup/#success-messages)
-action = "#"
+action = "https://formspree.io/f/mzbypwal"
 
 
 ################################# Google map ##################################
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "48.850432830789565"
+map_longitude = "2.2222167231512184"
 map_marker = "images/marker.png"
 
 
