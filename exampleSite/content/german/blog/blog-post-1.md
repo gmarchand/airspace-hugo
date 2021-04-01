@@ -1,11 +1,11 @@
 ---
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
-author: [ "Mark Dinn", "John Doe" ]
-image : "images/blog/blog-post-2.jpg"
+author: John Doe
+image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
-categories: ["Artificial Intelligence"]
-tags: ["Advice","Retro"]
+categories: ["Company News"]
+tags: ["Advice","Technology"]
 description: "this is meta description"
 draft: false
 type: "post"
@@ -35,6 +35,18 @@ eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Imped
   border-bottom: 1px solid #efefef;
   }
 ```
+
+
+* hello
+* hello
+* hello
+* hello
+* hello
+
+1. hello
+2. hello
+3. hello
+4. hello
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
 commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
