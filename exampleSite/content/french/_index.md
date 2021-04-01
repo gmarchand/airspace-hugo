@@ -4,19 +4,19 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Le toit terrasse<br/> des Belles Rives"
+  content: "Nous voulons aménager cet espace innocupé du batiment 9, pour l'embellir et l'entretenir à sa juste valeur."
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "Découvrer notre projet"
     link: "project"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "A propos de nous"
+  description: "Nous sommes les deux propriétaires juxtaposant ce toit terrasse ayant un accès exclusif au toit terrasse du bâtiment 9."
+  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et "
   image: "images/wrapper-img.png"
 
 
