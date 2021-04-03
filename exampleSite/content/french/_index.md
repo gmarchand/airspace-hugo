@@ -15,7 +15,7 @@ about:
   enable: true
   title: "Notre projet"
   description: "Nous sommes les deux propriétaires juxtaposant ce toit terrasse ayant un accès exclusif au toit terrasse du bâtiment 9."
-  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et Sandra habite le bâtiment 9 depuis 2013."
+  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et Sonia habite le bâtiment 9 depuis 2013."
   image: "images/perso/080515-087_DxO-1200x800.jpg"
 
 
