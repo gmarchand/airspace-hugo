@@ -38,13 +38,13 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "images/perso/transparent.png"
+logo_width = "32px"
 # OpenGraph / Twitter Card metadata
-title = "Airspace Hugo Template"
-description = "This is meta description"
-author = "Themefisher"
-images = [ "images/logo.png" ] # First image here will be used as fallback if a page has no images of its own
+title = "Projet toit terrasse des Belles Rives"
+description = "Les Belles Rives"
+author = "Guillaume Marchand"
+images = [ "images/001-rooftop.png" ] # First image here will be used as fallback if a page has no images of its own
 
 
 ################################# Sidebar widgets #############################
@@ -55,11 +55,11 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street, Brooklyn Australia"
+phone = "0608579494 ou 0616683922"
+email = "guillaume.marchand@gmail.com ou pblex@yahoo.fr"
+location = "Saint Cloud"
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
-address_descriptors = true
+address_descriptors = false
 [params.contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
@@ -262,39 +262,40 @@ URL = "/"
 weight = 1
 
 [[languages.fr.menu.main]]
-name = "À propos"
+name = "À propos de nous"
 URL = "about"
-weight = 2
+weight = 7
 
 [[languages.fr.menu.main]]
-name = "Projet"
+name = "Notre projet"
 URL = "project"
 weight = 3
 
-[[languages.fr.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+#[[languages.fr.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
 
-[[languages.fr.menu.main]]
-weight = 5
-name = "Plus"
-hasChildren = true
+#[[languages.fr.menu.main]]
+#weight = 5
+#name = "Plus"
+#hasChildren = true
 
   [[languages.fr.menu.main]]
-  parent = "Plus"
+  #parent = "Plus"
   name = "Questions fréquentes"
   URL = "faq"
+  weight = 4
 
-  [[languages.fr.menu.main]]
-  parent = "Plus"
-  name = "Tarification"
-  URL = "pricing"
+  #[[languages.fr.menu.main]]
+  #parent = "Plus"
+  #name = "Tarification"
+  #URL = "pricing"
 
-  [[languages.fr.menu.main]]
-  parent = "Plus"
-  name = "Service"
-  URL = "service"
+  #[[languages.fr.menu.main]]
+  #parent = "Plus"
+  #name = "Service"
+  #URL = "service"
 
 [[languages.fr.menu.main]]
 name = "Contact"
@@ -307,20 +308,20 @@ name = "À propos"
 URL = "about"
 weight = 1
 
-[[languages.fr.menu.footer]]
-name = "Projet"
-URL = "project"
-weight = 2
+#[[languages.fr.menu.footer]]
+#name = "Projet"
+#URL = "project"
+#weight = 2
 
-[[languages.fr.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
+#[[languages.fr.menu.footer]]
+#name = "Service"
+#URL = "service"
+#weight = 3
 
-[[languages.fr.menu.footer]]
-name = "Tarification"
-URL = "pricing"
-weight = 4
+#[[languages.fr.menu.footer]]
+#name = "Tarification"
+#URL = "pricing"
+#weight = 4
 
 [[languages.fr.menu.footer]]
 name = "Questions fréquentes"

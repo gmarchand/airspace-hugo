@@ -2,22 +2,22 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/perso/architecte-and-technical-plan.jpg"
   bg_overlay: true
   title: "Le toit terrasse<br/> des Belles Rives"
-  content: "Nous voulons aménager cet espace innocupé du batiment 9, pour l'embellir et l'entretenir à sa juste valeur."
+  content: "Nous voulons aménager cet espace innocupé du batiment 9, pour l'entretenir et l'embellir à sa juste valeur."
   button:
     enable: true
-    label: "Découvrer notre projet"
+    label: "Découvrer le portfolio"
     link: "project"
 
 ############################# About #################################
 about:
   enable: true
-  title: "A propos de nous"
+  title: "Notre projet"
   description: "Nous sommes les deux propriétaires juxtaposant ce toit terrasse ayant un accès exclusif au toit terrasse du bâtiment 9."
-  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et "
-  image: "images/wrapper-img.png"
+  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et Sandra habite le bâtiment 9 depuis 2013."
+  image: "images/perso/080515-087_DxO-1200x800.jpg"
 
 
 ######################### Portfolio ###############################
@@ -41,14 +41,14 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/perso/AdobeStock_265194405.jpeg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
@@ -58,7 +58,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Fun Facts About Us"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:

@@ -1,7 +1,7 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-bg_image: "images/featue-bg.jpg"
+title: "N'hésitez pas à nous contacter"
+description: "Nous répondrons à toutes vos questions"
+bg_image: "images/perso/Jules-Pelletier-19-920x420-2.jpg"
 layout: "contact"
 draft: false
 ---
