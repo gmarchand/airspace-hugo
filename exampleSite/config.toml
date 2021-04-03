@@ -267,7 +267,7 @@ URL = "about"
 weight = 7
 
 [[languages.fr.menu.main]]
-name = "Notre projet"
+name = "Galerie d'images"
 URL = "project"
 weight = 3
 

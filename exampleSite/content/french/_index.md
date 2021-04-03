@@ -13,9 +13,9 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "Notre projet"
-  description: "Nous sommes les deux propriétaires juxtaposant ce toit terrasse ayant un accès exclusif au toit terrasse du bâtiment 9."
-  content: "Guillaume et Laure habitent le bâtiment 8 depuis 2013. Pierre et Sonia habite le bâtiment 9 depuis 2013."
+  title: "Le constat"
+  description: "Ce toit terrasse est divisé en deux moitiés. Le lot xxx (Bâtiment 9 - Etage 4) est un duplex disposant de la jouissance exclusive de la partie du toit terrasse couvrant ce lot. La partie restante est inoccupée et recouverte d’un lit de graviers servant de protection au revêtement d’étanchéité et d’isolation face aux rayons du soleil et aux fortes intempéries."
+  content: " Cette couche de graviers est envahie par des mousses et des herbes. Cette végétation retient l’humidité qui rend la couche de graviers contre-productive. Elle engendre des racines qui ne font pas bon ménage avec la couche d’étanchéité."
   image: "images/perso/080515-087_DxO-1200x800.jpg"
 
 
@@ -23,7 +23,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
+  title: Notre projet
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
@@ -44,12 +44,12 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/perso/AdobeStock_265194405.jpeg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image: "images/perso/Jules-Pelletier-15.jpg"
+  title: "Votre avis est important."
+  content: "Nous travaillons depuis le début de ce projet avec le cabinet Minard et le conseil syndical des Belles Rives à qui nous avons demandé leur avis et leur adhésion. Nous avons présenté ce projet à nos voisins proches pour leur demander leur avis et avoir leur approbation. Nous demandons le soutien des copropriétaires de la résidence lors du vote de l’assemblée générale. Toutes questions et remarques sont les bienvenues."
   button:
     enable: true
-    label: Tell Us Your Story
+    label: N'hésitez pas à nous contacter.
     link: contact
 funfacts:
   enable: false
