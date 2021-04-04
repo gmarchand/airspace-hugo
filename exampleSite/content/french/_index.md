@@ -79,7 +79,7 @@ funfacts:
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
   - name: Guillaume Marchand
-    image: images/clients/avater-1.jpg
+    image: images/perso/GUILLAUME_PhotoAWS-1.jpeg
     designation: Propriétaire bâtiment 8
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that

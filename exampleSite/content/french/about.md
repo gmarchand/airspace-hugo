@@ -29,17 +29,17 @@ features:
   title : ""
   feature_item:
   # feature item loop
-  - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-clock" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Plus de 8 ans"
     content : "Nous habitons les Belles Rives depuis plus de 8 ans."
     
   # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-chatbubbles" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Conseil syndical"
     content : "Nous nous sommes engagés dans le conseil syndical des Belles Rives plusieurs années."
       
    # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-happy-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Sympa"
     content : "En plus nous sommes sympas, n'hésitez pas à venir nous parler de ce projet."
 
