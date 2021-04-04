@@ -24,16 +24,13 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: Notre projet
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: " L’approche est d’aménager cet espace et de le mettre en valeur. \n\n Ce projet est conduit par un cabinet d'architecture qui s’assure de la cohérence et la dignité de l’espace améliorant globalement la santé de toute la structure. \n\nLe cabinet d’architecture veille au respect des délais et bonne exécution des marchés, et ce jusqu’au stade de la réception définitive ou levée des réserves éventuelles.\n\nLes grands **principes** de ce projet sont :\n\n
+1. Être en harmonie avec la résidence, en respectant le règlement de notre copropriété et le plan local d’urbanisme de Saint Cloud.\n\n
+2. Etre à l’écoute et travailler en accord avec le conseil syndical, le syndic, l’architecte de la copropriété et les copropriétaires.\n\n
+3. Réaliser les travaux par des professionnels pour limiter les risques et réaliser un projet de qualité, à l’état de l’art.\n\n
+"
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
@@ -69,21 +66,27 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Pierrre Blexman
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
+    designation: Propriétaire bâtiment 9
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-  - name: Randi Renin
+  - name: Sonia Blexman
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
+    designation: Propriétaire bâtiment 9
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-  - name: Rose Rio
+  - name: Guillaume Marchand
+    image: images/clients/avater-1.jpg
+    designation: Propriétaire bâtiment 8
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Laure Belmont
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
+    designation: Propriétaire bâtiment 8
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
