@@ -3,7 +3,7 @@ title: "Foire aux questions"
 description: "Nous répondrons à toutes vos questions."
 subtitle : "N'hésitez pas à nous contacter si vous avez d'autres questions."
 lastmod: 2021-04-01T00:00:00
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/perso/Architectural-Designers.jpg"
 layout: "faq"
 draft: false
 ---

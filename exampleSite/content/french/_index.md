@@ -30,8 +30,8 @@ portfolio:
 3. Réaliser les travaux par des professionnels pour limiter les risques et réaliser un projet de qualité, à l’état de l’art.\n\n
 "
   button:
-    enable: false
-    label: View Works
+    enable: true
+    label: Notre projet en image
     link: project
 service:
   enable: false
