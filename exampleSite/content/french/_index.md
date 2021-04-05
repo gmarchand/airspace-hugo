@@ -7,7 +7,7 @@ banner:
   content: "Nous voulons aménager cet espace innocupé du batiment 9, pour l'entretenir et l'embellir à sa juste valeur."
   button:
     enable: true
-    label: "Découvrer le portfolio"
+    label: "Notre projet en image"
     link: "project"
 
 ############################# About #################################
@@ -31,12 +31,8 @@ portfolio:
 "
   button:
     enable: true
-    label: Notre projet en image
-    link: project
-service:
-  enable: false
-  # service content comes from "service.md" file
-
+    label: Le dossier d'AG
+    link: https://bit.ly/39HgrMw
 
 ############################ call to action ###########################
 cta:

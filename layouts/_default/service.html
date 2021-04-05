@@ -20,31 +20,31 @@
 {{ end }}
 {{ end }}
 
-{{ if .Params.featured_service.enable }}
-{{ with .Params.featured_service }}
-<section class="service-arrow">
-  <div class="container-fluid">
+
+{{ with .Params.portfolio }}
+{{ if .enable }}
+<!-- portfolio -->
+<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+  <div class="container">
     <div class="row">
-      {{ range .service_item }}
-      <div class="col-md-4 bg-primary bg-{{ .color }}">
-        <div class="block">
-          <i class="{{ .icon }}"></i>
-          <h3>{{ .name | markdownify }}</h3>
-          <p>{{ .content | markdownify }}</p>
-        </div>
+      <div class="col-md-6 col-md-offset-6">
+        <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
+        {{ .content | markdownify }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
-      {{ end }}
     </div>
   </div>
 </section>
+<!-- /portfolio -->
 {{ end }}
 {{ end }}
 
-<!-- Service -->
-{{ if .Params.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
+
+
 
 <!-- Call to action -->
 {{ if .Params.cta.enable }}

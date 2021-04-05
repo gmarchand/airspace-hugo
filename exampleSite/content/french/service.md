@@ -5,93 +5,81 @@ bg_image: "images/featue-bg.jpg"
 layout: "service"
 draft: false
 
-########################### about service #############################
+############################# About #################################
 about:
-  enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
-  image : "images/company/company-group-pic.jpg"
+  enable: true
+  title: "Le constat"
+  description: "Ce toit terrasse est divisé en deux moitiés. Le lot xxx (Bâtiment 9 - Etage 4) est un duplex disposant de la jouissance exclusive de la partie du toit terrasse couvrant ce lot. La partie restante est inoccupée et recouverte d’un lit de graviers servant de protection au revêtement d’étanchéité et d’isolation face aux rayons du soleil et aux fortes intempéries."
+  content: " Cette couche de graviers est envahie par des mousses et des herbes. Cette végétation retient l’humidité qui rend la couche de graviers contre-productive. Elle engendre des racines qui ne font pas bon ménage avec la couche d’étanchéité."
+  image: "images/perso/080515-087_DxO-1200x800.jpg"
 
 
-########################## featured service ############################
-featured_service:
-  enable : true
-  service_item:
-    # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
-      color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "ion-leaf"
-      color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
-    # featured service item loop
-    - name : "Game Development"
-      icon : "ion-lightbulb"
-      color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+######################### Portfolio ###############################
+portfolio:
+  enable: true
+  bg_image: images/featue-bg.jpg
+  title: Notre projet
+  content: " L’approche est d’aménager cet espace et de le mettre en valeur. \n\n Ce projet est conduit par un cabinet d'architecture qui s’assure de la cohérence et la dignité de l’espace améliorant globalement la santé de toute la structure. \n\nLe cabinet d’architecture veille au respect des délais et bonne exécution des marchés, et ce jusqu’au stade de la réception définitive ou levée des réserves éventuelles.\n\nLes grands **principes** de ce projet sont :\n\n
+1. Être en harmonie avec la résidence, en respectant le règlement de notre copropriété et le plan local d’urbanisme de Saint Cloud.\n\n
+2. Etre à l’écoute et travailler en accord avec le conseil syndical, le syndic, l’architecte de la copropriété et les copropriétaires.\n\n
+3. Réaliser les travaux par des professionnels pour limiter les risques et réaliser un projet de qualité, à l’état de l’art.\n\n
+"
+  button:
+    enable: true
+    label: Notre projet en image
+    link: project
 
-      
-############################# Service ###############################
-service:
-  enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  service_item:
-    # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-############################# call to action #################################
+############################ call to action ###########################
 cta:
-  enable : true
-  # call to action content comes from "_index.md"
+  enable: true
+  bg_image: "images/perso/Jules-Pelletier-15.jpg"
+  title: "Votre avis est important."
+  content: "Nous travaillons depuis le début de ce projet avec le cabinet Minard et le conseil syndical des Belles Rives à qui nous avons demandé leur avis et leur adhésion. Nous avons présenté ce projet à nos voisins proches pour leur demander leur avis et avoir leur approbation. Nous demandons le soutien des copropriétaires de la résidence lors du vote de l’assemblée générale. Toutes questions et remarques sont les bienvenues."
+  button:
+    enable: true
+    label: N'hésitez pas à nous contacter.
+    link: contact
+funfacts:
+  enable: false
+  title: "Fun Facts About Us"
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Cups Of Coffee
+    count: "99"
+  - icon: ion-ios-glasses-outline
+    name: Article Written
+    count: "45"
+  - icon: ion-ios-compose-outline
+    name: Projects Completed
+    count: "125"
+  - icon: ion-ios-timer-outline
+    name: Combined Projects
+    count: "200"
+  testimonial_slider:
+  - name: Pierrre Blexman
+    image: images/clients/avater-1.jpg
+    designation: Propriétaire bâtiment 9
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Sonia Blexman
+    image: images/clients/avater-1.jpg
+    designation: Propriétaire bâtiment 9
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Guillaume Marchand
+    image: images/perso/GUILLAUME_PhotoAWS-1.jpeg
+    designation: Propriétaire bâtiment 8
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Laure Belmont
+    image: images/clients/avater-3.jpg
+    designation: Propriétaire bâtiment 8
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+
 ---
