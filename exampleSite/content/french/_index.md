@@ -32,7 +32,7 @@ portfolio:
   button:
     enable: true
     label: Le dossier d'AG
-    link: https://bit.ly/39HgrMw
+    link: /blog/blog-post-project/
 
 ############################ call to action ###########################
 cta:

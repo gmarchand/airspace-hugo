@@ -10,6 +10,7 @@
   background: $light;
   margin-bottom: 40px;
   padding-bottom: 20px;
+  color: #7b7b7b;
 
   .post-media {
     &.post-thumb {
@@ -79,6 +80,7 @@
       padding: 10px 20px;
       font-family: $primary-font;
       list-style: circle;
+      color: #7b7b7b;
     }
     ol {
       font-size: 15px;

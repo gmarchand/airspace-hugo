@@ -1,25 +1,22 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-6.jpg"
-bg_image: "images/featue-bg.jpg"
-categories: ["Company News"]
-tags: ["News","Retro","AI","Company"]
-description: "this is meta description"
-draft: true
+title: "Dossier d'Assemblée Générale"
+date: 2021-04-19T11:07:10+06:00
+author: Guillaume Marchand
+image : "images/perso/Architectural-Designers.jpg"
+bg_image: "images/perso/01-interet-de-travailler-avec-un-architecte-interieur.jpg"
+categories: ["Assemblée Générale"]
+tags: ["AG","Projet"]
+description: "Dossier présenté pendant l'assemblée générale"
+draft: false
 type: "post"
 ---
-
-## Projet toit terrasse Blexmann et Marchand-Belmont  - Avril 2021
 
 **L’objet** de cette lettre est de décrire le projet d’aménagement du toit terrasse dont les fenêtres du lot 126 (Bâtiment 8 - Etage 5 - Gauche) ont  un accès exclusif, alors que le lot XXX a la jouissance exclusive de l’autre partie du toit. Pour mener à bien ce projet, ces deux propriétaires ont besoin du soutien de l’ensemble des copropriétaires pendant la prochaine assemblée générale de copropriété pour nous accorder la jouissance exclusive du reste de ce  toit terrasse. 
 
 Les grands **principes** de ce projet sont :
-
-* Être en harmonie avec la résidence, en respectant le règlement de notre copropriété et le plan local d’urbanisme de Saint Cloud.
-* Etre à l’écoute et travailler en accord avec le conseil syndical, le syndic, l’architecte de la copropriété et les copropriétaires.
-* Réaliser les travaux par des professionnels pour limiter les risques et réaliser un projet de qualité, à l’état de l’art.
+- Être en **harmonie** avec la résidence, en respectant le règlement de notre copropriété et le plan local d’urbanisme de Saint Cloud.
+- Etre à **l’écoute** et travailler en accord avec le conseil syndical, le syndic, l’architecte de la copropriété et les copropriétaires.
+- Réaliser les travaux par des **professionnels** pour limiter les risques et réaliser un projet de qualité, à l’état de l’art.
 
 Les propriétaires du lot 126 sont Laure Belmont et Guillaume Marchand, les propriétaires du lot XXX sont Sonia et Pierre Blexmann.
 
