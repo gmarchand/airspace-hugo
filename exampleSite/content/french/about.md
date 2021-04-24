@@ -1,7 +1,7 @@
 ---
 title: "A propos de nous"
-description: "this is meta description"
-bg_image: "images/perso/Architectural-Designers.jpg"
+description: "Les familles Marchand-Belmont et Blexmann"
+bg_image: "images/perso/family-back.jpg"
 layout: "about"
 draft: false
 
@@ -9,19 +9,14 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-          
-          
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  image : "images/perso/projet/family-blur.jpg"
+  title : ""
+  content : "Nos deux familles habitent la résidence des Belles Rives depuis plusieurs années et comptent y rester pendant de très nombreuses années. Les deux familles se connaissent depuis plusieurs années : nos enfants ont le même âge et fréquentent la même école. Pierre Blexmann est membre de conseil syndical et Guillaume Marchand l'a été plusieurs années."
 
   button:
-    enable : false
-    label : "Download Company Profile"
-    link : "#"
+    enable: false
+    label: "Download Company Profile"
+    link: "#"
     
 ################################ feature #####################################
 features:
@@ -45,7 +40,7 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
