@@ -22,7 +22,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: images/perso/projet/20210425_111116.jpg
   title: Notre projet
   content: " L’approche est d’aménager cet espace et de le mettre en valeur. \n\n Ce projet est conduit par le cabinet d'architecture [Loft75](https://www.loft75.com) qui s’assure de la cohérence et la dignité de l’espace améliorant globalement la santé de toute la structure. \n\nLe cabinet d’architecture veille au respect des délais et bonne exécution des marchés, et ce jusqu’au stade de la réception définitive ou levée des réserves éventuelles.\n\nLes grands **principes** de ce projet sont :\n\n
 1. Être en harmonie avec la résidence, en respectant le règlement de notre copropriété et le plan local d’urbanisme de Saint Cloud.\n\n
